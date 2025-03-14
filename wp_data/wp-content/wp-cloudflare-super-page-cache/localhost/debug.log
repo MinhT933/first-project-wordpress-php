@@ -1,0 +1,5 @@
+[2025-03-14 09:48:17] [upgrader::run_update_migrations] Previous version is empty. Skipping upgrade.
+[2025-03-14 09:48:18] [upgrader::run_update_migrations] Running migrations.
+[2025-03-14 09:48:18] [upgrader::update_cache_rule] Start cache rule upgrade.
+[2025-03-14 09:48:18] [cloudflare::update_cache_rule_if_diff] Cloudflare API is not enabled or cache rule is not set. Enabled:  Rule set: 
+[2025-03-14 09:48:18] [upgrader::update_cache_rule] Cache rule updated.
